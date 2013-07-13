@@ -2,3 +2,4 @@ pubspec.lock
 web/out/
 packages
 packages/*
+.buildlog
